@@ -23,10 +23,12 @@
 - [Prerequisites](#-prerequisites)
 - [Quick Start](#-quick-start)
 - [Step-by-Step Installation](#-step-by-step-installation)
+- [Cost Optimization](#-cost-optimization-important)
 - [Running the Node](#-running-the-node)
 - [Troubleshooting](#-troubleshooting)
 - [FAQ](#-faq)
-- [Contributing](#-contributing)
+- [**🏆 Complete Badge Guide →**](docs/badges.md)
+- [Advanced Configuration →](docs/advanced.md)
 
 ---
 

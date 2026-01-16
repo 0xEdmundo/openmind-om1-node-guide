@@ -1,0 +1,19 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2025-01-16
+
+### Added
+- Initial release
+- Complete installation guide for Linux (Ubuntu)
+- Automated installation script (`scripts/install.sh`)
+- Troubleshooting documentation
+- Badge and rewards guide
+- Advanced configuration (systemd, Docker)
+- FAQ section
+
+### Documentation
+- Step-by-step installation instructions
+- Screen session management guide
+- Common error solutions

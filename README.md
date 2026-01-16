@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://openmind.org">Website</a> •
-  <a href="https://fabric.openmindnetwork.xyz">Fabric Portal</a> •
+  <a href="https://fabric.openmind.org">Fabric Portal</a> •
   <a href="https://x.com/openmind_agi">Twitter</a> •
   <a href="https://github.com/openmind-ai/OM1">Official Repo</a>
 </p>
@@ -56,7 +56,7 @@ By running an OM1 node, you:
 
 ### Required Accounts
 
-1. **OpenMind Account** - Register at [fabric.openmindnetwork.xyz](https://fabric.openmindnetwork.xyz)
+1. **OpenMind Account** - Register at [https://fabric.openmind.org](https://fabric.openmind.org)
 2. **Base Network Wallet** - For purchasing credits (5 USDC minimum)
 
 ---
@@ -157,7 +157,7 @@ uv sync
 
 ### Step 6: Obtain API Key
 
-1. Navigate to [OpenMind Fabric Portal](https://fabric.openmindnetwork.xyz)
+1. Navigate to [OpenMind Fabric Portal](https://fabric.openmind.org)
 2. Connect your wallet and sign up/login
 3. Go to **"Purchase Credits"** in the top-right menu
 4. Add at least **5 USDC** on Base network
@@ -218,7 +218,7 @@ Save and exit: `Ctrl + X` → `Y` → `Enter`
 | **Developer Badge** | ~2,500 credits required |
 | **Estimated Cost for Badge** | ~$25 USDC |
 
-> 💡 **Tip**: With the hertz optimization, you can run the node much longer on the same budget. Always monitor your credit balance on the [Fabric Portal](https://fabric.openmindnetwork.xyz).
+> 💡 **Tip**: With the hertz optimization, you can run the node much longer on the same budget. Always monitor your credit balance on the [Fabric Portal](https://fabric.openmind.org).
 
 ---
 
@@ -291,7 +291,7 @@ uv venv
 **Cause**: No credits or invalid API key
 
 **Solution**:
-1. Visit [Fabric Portal](https://fabric.openmindnetwork.xyz)
+1. Visit [Fabric Portal](https://fabric.openmind.org)
 2. Add credits to your account
 3. Generate a new API key if needed
 4. Update `.env` file with new key
@@ -330,7 +330,7 @@ sudo apt install portaudio19-dev -y
 > A: This guide is for Linux. WSL2 on Windows may work but is not officially supported.
 
 **Q: How do I check my badge progress?**
-> A: Visit [fabric.openmindnetwork.xyz](https://fabric.openmindnetwork.xyz) and check your profile.
+> A: Visit [fabric.openmind.org](https://fabric.openmind.org) and check your profile.
 
 **Q: Is there an airdrop?**
 > A: Nothing confirmed. Running a node and earning badges may increase eligibility for future rewards.

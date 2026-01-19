@@ -97,7 +97,7 @@ if [ -d "OM1" ]; then
     cd OM1
     git pull
 else
-    git clone https://github.com/openmind-ai/OM1.git
+    git clone https://github.com/OpenMind/OM1.git
     cd OM1
 fi
 git submodule update --init --recursive
@@ -125,7 +125,7 @@ echo -e "${GREEN}║              Installation Complete! 🎉                   
 echo -e "${GREEN}╚═══════════════════════════════════════════════════════════╝${NC}"
 echo ""
 echo -e "${YELLOW}Next steps:${NC}"
-echo "  1. Get your API key from: https://fabric.openmindnetwork.xyz"
+echo "  1. Get your API key from: https://fabric.openmind.org"
 echo "  2. Edit the .env file: nano ~/OM1/.env"
 echo "  3. Add your API key to the OM_API_KEY= line"
 echo "  4. Run the node:"

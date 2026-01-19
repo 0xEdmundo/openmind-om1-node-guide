@@ -71,7 +71,7 @@ RUN apt-get update && apt-get install -y \
 RUN pip install uv
 
 WORKDIR /app
-RUN git clone https://github.com/openmind-ai/OM1.git .
+RUN git clone https://github.com/OpenMind/OM1.git .
 RUN git submodule update --init --recursive
 RUN uv venv && uv sync
 

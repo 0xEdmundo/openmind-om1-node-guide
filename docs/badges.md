@@ -60,7 +60,7 @@ Before starting, make sure you have:
 **Option B: GitHub Contribution** (More Impactful)
 | Step | Action |
 |------|--------|
-| 1 | Visit [github.com/openmind-ai/OM1](https://github.com/openmind-ai/OM1) |
+| 1 | Visit [github.com/OpenMind/OM1](https://github.com/OpenMind/OM1) |
 | 2 | Find issues to work on or propose improvements |
 | 3 | Submit a Pull Request (PR) |
 | 4 | Get your PR merged |
@@ -189,7 +189,7 @@ Which badges should you get first? Here's a recommended order:
 | Fabric Portal | [fabric.openmind.org](https://fabric.openmind.org) |
 | OpenMind Website | [openmind.org](https://openmind.org) |
 | Official Twitter | [@openmind_agi](https://x.com/openmind_agi) |
-| GitHub | [github.com/openmind-ai/OM1](https://github.com/openmind-ai/OM1) |
+| GitHub | [github.com/OpenMind/OM1](https://github.com/OpenMind/OM1) |
 | Mobile App (iOS) | [App Store](https://apps.apple.com/app/openmind) |
 | Mobile App (Android) | [Play Store](https://play.google.com/store/apps/details?id=com.openmind) |
 

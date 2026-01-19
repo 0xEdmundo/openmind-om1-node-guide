@@ -12,7 +12,7 @@
   <a href="https://openmind.org">Website</a> •
   <a href="https://fabric.openmind.org">Fabric Portal</a> •
   <a href="https://x.com/openmind_agi">Twitter</a> •
-  <a href="https://github.com/openmind-ai/OM1">Official Repo</a>
+  <a href="https://github.com/OpenMind/OM1">Official Repo</a>
 </p>
 
 ---
@@ -68,7 +68,7 @@ By running an OM1 node, you:
 For experienced users, run this one-liner:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/openmind-om1-node-guide/main/scripts/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/0xEdmundo/openmind-om1-node-guide/main/scripts/install.sh | bash
 ```
 
 > ⚠️ **Note**: Review the script before running. Always verify scripts from the internet.
@@ -135,7 +135,7 @@ uv --version
 cd ~
 
 # Clone the official OM1 repository
-git clone https://github.com/openmind-ai/OM1.git
+git clone https://github.com/OpenMind/OM1.git
 
 # Enter the project directory
 cd OM1
@@ -186,7 +186,7 @@ Save and exit: `Ctrl + X` → `Y` → `Enter`
 
 ---
 
-## � Cost Optimization (Important!)
+## 💰 Cost Optimization (Important!)
 
 > ⚠️ **Warning**: Without optimization, your credits can drain within minutes! Follow these steps to significantly reduce costs.
 
@@ -224,7 +224,7 @@ Save and exit: `Ctrl + X` → `Y` → `Enter`
 
 ---
 
-## �🚀 Running the Node
+## 🚀 Running the Node
 
 ### Using Screen (Recommended)
 
